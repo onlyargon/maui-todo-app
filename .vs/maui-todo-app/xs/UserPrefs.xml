@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{CCA58C44-0E8D-4DC0-B643-E83CB8ED3E3A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.maui-todo-app FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="maui-todo-app/MainPage.xaml">
+    <Files>
+      <File FileName="maui-todo-app/App.xaml" Line="14" Column="15" />
+      <File FileName="maui-todo-app/AppShell.xaml" Line="16" Column="1" />
+      <File FileName="maui-todo-app/MainPage.xaml" Line="26" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="maui-todo-app" expanded="True">
+            <Node name="maui-todo-app" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.maui-todo-app FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
